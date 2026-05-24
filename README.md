@@ -1,4 +1,4 @@
-# VirusJump v3 — Бездна
+# VirusJump v2 - Бездна
 
 ## Запуск
 ```
